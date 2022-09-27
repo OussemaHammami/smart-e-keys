@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246361094776",
+    "firebase_url": "https://smartkeydb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartkeydb",
+    "storage_bucket": "smartkeydb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246361094776:android:67741a8fd60c6caf530b8d",
+        "android_client_info": {
+          "package_name": "com.example.pcdv0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246361094776-tqrslaj5j3b7079dtduh457m0ahbn5s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzrEGeN2EFcOVPqbyGhUAodA8zzd_jYss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246361094776-tqrslaj5j3b7079dtduh457m0ahbn5s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

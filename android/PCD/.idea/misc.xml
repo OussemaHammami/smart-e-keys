@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/btn_home.xml" value="0.1485" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/btn_signin_background.xml" value="0.143" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/cadre.xml" value="0.127" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/cadre_shape.xml" value="0.127" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1485" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1485" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/ic_row_back_24.xml" value="0.143" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/progress_back.xml" value="0.1" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/rounded_corner.xml" value="0.163" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/shape_grey.xml" value="0.1395" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/shape_vertical.xml" value="0.127" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/shaper.xml" value="0.127" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/drawable/side_nav_bar.xml" value="0.163" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/font/amiko_semibold.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_add_car.xml" value="0.2" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_bluetooth.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_car_detail.xml" value="0.2359375" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_control.xml" value="0.234375" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_create_account.xml" value="0.2" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_edit_car.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_get_location.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_map.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_rent.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_show_map.xml" value="0.19375" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_user_detail.xml" value="0.264" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/activity_user_navigation_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/admin_car_row.xml" value="0.264" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/app_bar_user_navigation_drawer.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/car_row.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/client_car_row.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/content_user_navigation_drawer.xml" value="0.1328125" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/control_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/control_fragment_y.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_bluetooth.xml" value="0.23125" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_cars.xml" value="0.1" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_cars_admin.xml" value="0.176" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_cars_client.xml" value="0.128" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_control.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_control_y.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_gallery.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_map.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_map_admin.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_map_client.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/fragment_users.xml" value="0.2171875" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/nav_header_user_navigation_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/layout/user_row.xml" value="0.2171875" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/oussema/AndroidStudioProjects/PCDv0/app/src/main/res/menu/user_navigation_drawer.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
